@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+* {
+    font: 16px Arial, helvetica, sans-serif;
+    width: 900px;
+    
+}
+img {
+    padding: 10px;
+    margin: 0px;
+    width: 922px;
+    
+}
+.imagem {
+    border: 4px rgba(136, 112, 83, 0.925);
+    border-style: double;
+    width: 700px;
+}
+nav {
+    padding: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+nav > a {
+    color: rgba(66, 56, 161, 0.863);
+    font: 20px Arial, helvetica, sans-serif;
+    text-decoration: none;
+}
+h1 {
+    font: 20px Arial, helvetica, sans-serif;
+    color: rgb(136, 112, 83);
+}
+.conteudo {
+    background-color: white;
+    color: black;
+    padding: 10px;
+    margin: 10px;
+
+}
+footer {
+    text-align: center;
+}
+footer > p > strong {
+    color: black;
+    font-weight: 700;
+}
